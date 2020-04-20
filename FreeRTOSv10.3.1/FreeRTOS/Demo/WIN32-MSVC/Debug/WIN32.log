@@ -1,0 +1,44 @@
+﻿  trcKernelPort.c
+  trcSnapshotRecorder.c
+  croutine.c
+  event_groups.c
+  heap_5.c
+  stream_buffer.c
+  timers.c
+  AbortDelay.c
+  BlockQ.c
+  blocktim.c
+  countsem.c
+  death.c
+  dynamic.c
+  EventGroupsDemo.c
+  flop.c
+  GenQTest.c
+  integer.c
+  IntSemTest.c
+  MessageBufferAMP.c
+  PollQ.c
+  Generating Code...
+  Compiling...
+  QPeek.c
+  QueueOverwrite.c
+  QueueSet.c
+  QueueSetPolling.c
+  recmutex.c
+  semtest.c
+  StaticAllocation.c
+  MessageBufferDemo.c
+  StreamBufferDemo.c
+  StreamBufferInterrupt.c
+  TaskNotify.c
+  timerdemo.c
+  main.c
+  list.c
+  port.c
+  queue.c
+  tasks.c
+  main_blinky.c
+  main_full.c
+  Run-time-stats-utils.c
+  Generating Code...
+  WIN32.vcxproj -> D:\github-repo\FreeRTOS_win32\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\.\Debug\RTOSDemo.exe
